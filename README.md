@@ -2,7 +2,7 @@
 #### ¡Estoy interesado en aprender lenguajes de programación y mejorar mis habilidades basicas!
 Actualmente estudio Ingeniería de Software y voy aprendiendo poco a poco.
 
-<h2 align="center">Spotify Playing Now</h2>
+<h2 align="center">Escuchando en Spotify</h2>
 <p align="center"><a href="https://open.spotify.com/user/ivangodinez21"><img src="https://readme-spotify-status-ivangodinez21.vercel.app/api/run-spotify-status" alt="Now Playing" width="380" /></a></p>
 <h2 align="center">Logros</h2>
 <p align="center">Basados en mi actividad de GitHub</p>
